@@ -1,0 +1,72 @@
+Mnemonico no valido, en linea 1
+___________________________________
+Etiqueta: 
+Mnemonico: ORG
+Operandos: $4000 
+Comentario: 
+
+
+Linea 2, Modo de direccionamiento: INH
+___________________________________
+Etiqueta: 
+Mnemonico: ABA
+Operandos: 
+Comentario: 
+
+
+Operando(s) no valido, en linea 3
+___________________________________
+Etiqueta: 
+Mnemonico: ABA
+Operandos: 15
+Comentario: 
+
+
+Linea 4, Modo de direccionamiento: IMM
+___________________________________
+Etiqueta: ET1
+Mnemonico: ADCA
+Operandos: #130
+Comentario: 
+
+
+Linea 5, Modo de direccionamiento: IMM
+___________________________________
+Etiqueta: ET1
+Mnemonico: ADDD
+Operandos: #130
+Comentario:  com2
+
+
+Linea 6, Modo de direccionamiento: IMM
+___________________________________
+Etiqueta: 
+Mnemonico: ADDD
+Operandos: 130
+Comentario: 
+
+
+Linea 7, Modo de direccionamiento: IMM
+___________________________________
+Etiqueta: 
+Mnemonico: ADDD
+Operandos: 256
+Comentario: 
+
+
+Operando(s) no valido, en linea 8
+___________________________________
+Etiqueta: 
+Mnemonico: ADDD
+Operandos: A,23 
+Comentario: com1
+
+
+Mnemonico no valido, en linea 9
+___________________________________
+Etiqueta: 
+Mnemonico: END
+Operandos: 
+Comentario: 
+
+

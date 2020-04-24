@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1580937431 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica1\main.cpp
+	<iostream>
+	<fstream>
+	"instruccion.h"
+
+1580867590 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica1\instruccion.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	"instruccion.h"
+
+1580676294 c:\users\fernanda\documents\school\6th\seminario de traductores\practica1\instruccion.h
+
+1581283212 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica2\instruccion.cpp
+	"instruccion.h"
+
+1581281256 c:\users\fernanda\documents\school\6th\seminario de traductores\practica2\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1581478686 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"instruccion.h"
+	"tabco.h"
+
+1581280500 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica2\tabco.cpp
+	"Tabco.h"
+
+1581280429 c:\users\fernanda\documents\school\6th\seminario de traductores\practica2\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1582077155 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\instruccion.cpp
+	"instruccion.h"
+
+1582073032 c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1581910405 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\tabco.cpp
+	"Tabco.h"
+
+1581908602 c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1582090719 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581825569 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\conloc.cpp
+	"conloc.h"
+
+1581825562 c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\conloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1581830822 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\contloc.cpp
+	"contloc.h"
+
+1581907332 c:\users\fernanda\documents\school\6th\seminario de traductores\practica3\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1581830822 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\contloc.cpp
+	"contloc.h"
+
+1581907332 c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1582073032 c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1582523233 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\instruccion.cpp
+	"instruccion.h"
+
+1582522551 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581908602 c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1581910405 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica4\tabco.cpp
+	"Tabco.h"
+
+1581830822 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\contloc.cpp
+	"contloc.h"
+
+1581907332 c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1582073032 c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1583031138 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\instruccion.cpp
+	"instruccion.h"
+
+1581910405 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\tabco.cpp
+	"Tabco.h"
+
+1581908602 c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1583187649 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581830822 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\contloc.cpp
+	"contloc.h"
+
+1581907332 c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1583639955 c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1583639973 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\instruccion.cpp
+	"instruccion.h"
+
+1581910405 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\tabco.cpp
+	"Tabco.h"
+
+1581908602 c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1583962780 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581830822 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\contloc.cpp
+	"contloc.h"
+
+1581907332 c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1583639955 c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1584218340 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\instruccion.cpp
+	"instruccion.h"
+
+1581910405 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\tabco.cpp
+	"Tabco.h"
+
+1581908602 c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1584572957 source:c:\users\fernanda\documents\school\6th\seminario de traductores\practica7\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581834422 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\contloc.cpp
+	"contloc.h"
+
+1581910932 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1583643555 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1584221940 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\instruccion.cpp
+	"instruccion.h"
+
+1584576557 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581912202 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1581914005 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores\practica7\tabco.cpp
+	"Tabco.h"
+
+1581834422 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\contloc.cpp
+	"contloc.h"
+
+1581910932 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1583643555 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1584221940 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\instruccion.cpp
+	"instruccion.h"
+
+1587004743 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581912202 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1581914005 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica7 - copia\tabco.cpp
+	"Tabco.h"
+
+1581834422 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\contloc.cpp
+	"contloc.h"
+
+1581910932 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\contloc.h
+	"instruccion.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1583643555 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\instruccion.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1587010771 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\instruccion.cpp
+	"instruccion.h"
+
+1587589384 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"instruccion.h"
+	"tabco.h"
+	"contloc.h"
+
+1581912202 c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\tabco.h
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1581914005 source:c:\users\ferna\onedrive\documentos\school\6th\seminario de traductores i\practica8\tabco.cpp
+	"Tabco.h"
+
